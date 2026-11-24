@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hatsukoi-coder.github.io/kr-webhard-registry-reference/sitemap.xml
